@@ -42,7 +42,7 @@ The tool offers the following features:
 
 ## Contributing
 
-Contributions are welcome! Please follow the guidelines outlined in the CONTRIBUTING.md file.
+Contributions are welcome!
 
 ## License
 
